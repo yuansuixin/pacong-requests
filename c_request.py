@@ -1,6 +1,8 @@
 # -*- coding:UTF-8 -*-
 import requests
 
+
+# 对于必应翻译
 post_url = 'https://www.bing.com/ttranslationlookup?'
 
 
